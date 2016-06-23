@@ -1,0 +1,17 @@
+a.featured-link {
+    color: #cfcfcf;
+    padding: 1px 5px;
+}
+#reply-control input.featured-link-field {
+  margin: 6px 10px 3px 0;
+  padding: 8px 10px;
+  width: 99%;
+  border: 1px solid white;
+  @media (min-width: 992px) {
+    & {
+      width: 860px;
+      color: #cfcfcf;
+      padding: 7px 10px;
+    }
+  }
+}
