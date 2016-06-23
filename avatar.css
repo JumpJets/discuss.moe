@@ -1,0 +1,15 @@
+// New avatar width
+//$vertical-padding: 0px;
+
+.topic-avatar {
+  //padding-bottom: #{$vertical-padding};
+  border-top: 0px;
+  padding-right: 50px;
+  right: -5px;
+}
+
+/*clearing out css
+.topic-body {
+  padding-top: #{$vertical-padding};
+}
+*/
