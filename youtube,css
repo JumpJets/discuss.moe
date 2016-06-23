@@ -1,0 +1,10 @@
+.lazyYT {
+    height: 0 !important;
+    width: 100% !important;
+    max-width: auto;
+    padding-bottom: 56.25% !important;
+}
+
+.lazyYT-container, .lightbox-wrapper, p img {
+    margin:5px 0;
+}
